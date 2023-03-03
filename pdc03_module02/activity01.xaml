@@ -6,16 +6,8 @@
     <ContentPage.Content>
         <StackLayout>
 
-            <Slider VerticalOptions="CenterAndExpand"
-                    MinimumTrackColor="Green"
-                    MaximumTrackColor="Red"
-                    ThumbColor="Black" />
-
-            <Label x:Name="valuelabel" 
-                   FontSize="Large"
-                   HorizontalOptions="CenterAndExpand"
-                   VerticalOptions="CenterAndExpand"/>
             
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

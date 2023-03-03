@@ -5,9 +5,16 @@
              Title="PDC03 | Activity 02">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Slider VerticalOptions="CenterAndExpand"
+                    MinimumTrackColor="Green"
+                    MaximumTrackColor="Red"
+                    ThumbColor="Black"
+                    ValueChanged="OnSliderValueChanged"/>
+
+            <Label x:Name="valuelabel" 
+                   FontSize="Large"
+                   HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

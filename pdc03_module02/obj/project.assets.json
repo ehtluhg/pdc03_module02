@@ -547,11 +547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Dy\\3rd Year - 2nd Semester\\Midterms\\pdc30-activity01\\pdc03_module02\\pdc03_module02\\pdc03_module02\\pdc03_module02.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\pdc03_module02\\pdc03_module02\\pdc03_module02\\pdc03_module02.csproj",
       "projectName": "pdc03_module02",
-      "projectPath": "C:\\Users\\User\\Documents\\Dy\\3rd Year - 2nd Semester\\Midterms\\pdc30-activity01\\pdc03_module02\\pdc03_module02\\pdc03_module02\\pdc03_module02.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\pdc03_module02\\pdc03_module02\\pdc03_module02\\pdc03_module02.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Dy\\3rd Year - 2nd Semester\\Midterms\\pdc30-activity01\\pdc03_module02\\pdc03_module02\\pdc03_module02\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\pdc03_module02\\pdc03_module02\\pdc03_module02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

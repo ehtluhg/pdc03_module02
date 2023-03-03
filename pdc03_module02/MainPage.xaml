@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="pdc03_module02.MainPage">
+             x:Class="pdc03_module02.MainPage"
+             Title="PDC03 | Module 02">
 
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
@@ -22,6 +23,10 @@
 
         <Button Text="Activity1" Clicked="OpenActivity1" />
         <Button Text="Activity2" Clicked="OpenActivity2" />
+        <Button Text="Activity3" Clicked="OpenActivity3" />
+        <Button Text="Activity4" Clicked="OpenActivity4" />
+        <Button Text="Activity5" Clicked="OpenActivity5" />
+        
     </StackLayout>
 
 </ContentPage>

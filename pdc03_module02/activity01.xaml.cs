@@ -16,9 +16,6 @@ namespace pdc03_module02
         {
             InitializeComponent();
         }
-        void OnSliderValueChanged(object sender, ValueChangedEventArgs args)
-        {
-            valuelabel.Text = args.NewValue.ToString("F3");
-        }
+        
     }
 }
